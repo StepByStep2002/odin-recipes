@@ -15,3 +15,8 @@ Ukrainian Borscht image: https://www.pexels.com/photo/a-bowl-of-borscht-garnishe
 by Nadin Sh
 Mac & Cheese image: https://www.pexels.com/photo/photo-of-mac-and-cheese-on-a-plate-15483262/
 by Suki Lee
+
+Finished Project: i have improved my understanding of HTML and know more about
+the use of basic HTML, now i can make simple pages, add links to them, images,
+format text by making it bold or cursive. Plus i now understand a bit more about
+Git and GitHub
