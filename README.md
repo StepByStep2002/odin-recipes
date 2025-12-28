@@ -8,6 +8,10 @@ basics of HTML
 
 Credits to used content
 
-Lasagna image:
+Lasagna image:https://www.pickpik.com/food-spanish-baked-eggs-spanish-egg-baked-lasagna-7386
 Pizza with olives image: https://www.pexels.com/photo/delicious-pizza-with-olives-and-pepperoni-on-wooden-table-33592991/
 by Anhelina Vasylyk
+Ukrainian Borscht image: https://www.pexels.com/photo/a-bowl-of-borscht-garnished-with-sour-cream-and-herbs-18955541/
+by Nadin Sh
+Mac & Cheese image: https://www.pexels.com/photo/photo-of-mac-and-cheese-on-a-plate-15483262/
+by Suki Lee
