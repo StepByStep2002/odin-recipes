@@ -1,0 +1,15 @@
+body
+{
+    background-color: antiquewhite;
+}
+.recipes-list 
+{
+    width: 500px;
+    margin: 0px auto;
+}
+
+.recipes-list.title
+{
+text-align: center;
+}
+    

@@ -1,0 +1,21 @@
+body
+{
+    background-color: antiquewhite;
+}
+
+h1
+{
+    text-align: center;
+}
+
+img
+{
+    margin: auto;
+    display: block;
+}
+
+.recipe-description
+{
+    width: 800px;
+    margin: auto;
+}
