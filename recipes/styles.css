@@ -12,10 +12,15 @@ img
 {
     margin: auto;
     display: block;
+  margin-bottom: 10px;
 }
 
 .recipe-description
 {
     width: 800px;
     margin: auto;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+    border: 5px, solid orangered;
+    padding: 20px;
 }
