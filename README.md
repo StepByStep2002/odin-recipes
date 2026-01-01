@@ -23,3 +23,7 @@ Finished Project: i have improved my understanding of HTML and know more about
 the use of basic HTML, now i can make simple pages, add links to them, images,
 format text by making it bold or cursive. Plus i now understand a bit more about
 Git and GitHub
+
+Update 01/01/2026: Added styles.css files to index.html and recipes pages, i have learned how to create CSS styles 
+for HTML pages and currently still learning how to use different tools and properties of CSS like selectors, how to 
+work with boxes and with padding, border and margin parameters.
